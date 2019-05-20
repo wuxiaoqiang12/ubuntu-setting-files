@@ -2,3 +2,6 @@
 	proxy = socks5://127.0.0.1:1080
 [https]
 	proxy = socks5://127.0.0.1:1080
+[user]
+	email = 1044731322@qq.com
+	name = wuxiaoqiang12
